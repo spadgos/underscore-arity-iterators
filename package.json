@@ -1,0 +1,24 @@
+{
+  "name": "underscore-arity-iterators",
+  "version": "0.0.1",
+  "description": "Adds arity-bound versions of many underscore methods, such as map1, each1",
+  "main": "underscore.arity-iterators.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "2.2.1",
+    "expect.js": "0.3.1",
+    "underscore": "^1.8.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "underscore",
+    "functional programming",
+    "fp",
+    "map1"
+  ],
+  "author": "Nick Fisher",
+  "license": "ISC"
+}
