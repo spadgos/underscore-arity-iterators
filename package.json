@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "description": "Adds arity-bound versions of many underscore methods, such as map1, each1",
   "main": "underscore.arity-iterators.js",
+  "author": {
+    "name": "Nick Fisher",
+    "email": "spadgos@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spadgos/underscore-arity-iterators.git"
+  },
   "dependencies": {
   },
   "devDependencies": {
